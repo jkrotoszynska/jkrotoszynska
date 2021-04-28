@@ -9,9 +9,9 @@ I have no problem with that because learning is a pleasure for me!
 :woman_technologist: I connect my future with frontend or databases  
 :crossed_swords: The hardest language for me is Scala, and unfortunately I like challenges so I' want to beat it.
 ***
+<p align="center">
     <h3 align="center">At the moment I am working with</h3>
     <!-- git -->
-    <p align="center">
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <!-- linux -->
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
