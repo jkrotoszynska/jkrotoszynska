@@ -39,7 +39,8 @@ I have no problem with that because learning is a pleasure for me!
 <p align="center">
   <i> Get in touch with me </i>
   <p align="center">
-    <a href="https://www.linkedin.com/in/justyna-krotoszynska/"><img src ="https://raw.githubusercontent.com/jkrotoszynska/jkrotoszynska/main/linkedin-box-fill.svg"></a>
+    <a href="https://www.instagram.com/xadmire/"><img src ="https://raw.githubusercontent.com/jkrotoszynska/jkrotoszynska/main/instagram-line.svg"></a>
+      <a href="https://www.linkedin.com/in/justyna-krotoszynska/"><img src ="https://raw.githubusercontent.com/jkrotoszynska/jkrotoszynska/main/linkedin-box-fill.svg"></a>
     <a href="mailto:justyna.krotoszynska@gmail.com"><img src ="https://raw.githubusercontent.com/jkrotoszynska/jkrotoszynska/main/mail-fill.svg"></a>
 </p>
 
