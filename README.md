@@ -19,7 +19,7 @@ I have no problem with that because learning is a pleasure for me!
   <summary>psst... here's the secret</summary>
   <br>
   <p>
-    ![](https://visitor-badge.glitch.me/badge?page_id=jkrotoszynska)
+    <i>![](https://visitor-badge.glitch.me/badge?page_id=jkrotoszynska)</i>
   </p>
 
 
