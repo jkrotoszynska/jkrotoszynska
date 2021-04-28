@@ -50,5 +50,5 @@ I have no problem with that because learning is a pleasure for me!
   <br>
     <h3> I like looking at numbers, so here we go </h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jkrotoszynska&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jkrotoszynska&theme=default)](https://git.io/streak-stats)
 
