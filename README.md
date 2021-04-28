@@ -7,7 +7,12 @@ I have no problem with that because learning is a pleasure for me!
 :woman_technologist: I connect my future with frontend or databases  
 :crossed_swords: The hardest language for me is Scala, and unfortunately I like challenges so I' want to beat it.
 
-<div align="center">
-*Get in touch with me*
+<hr>
+<p align="center">
+  <i> Get in touch with me </i>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/justyna-krotoszynska/"><img src =""></a>
+    <a href="mailto:justyna.krotoszynska@gmail.com"><img src =""></a>
+</p>
 
 
