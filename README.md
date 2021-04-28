@@ -1,4 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jkrotoszynska)
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
 ***
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20I'm%20Justyna&fontSize=65&fontAlignY=35)  
 I am friendly person, who really like working with computers and people (sometimes) :zipper_mouth_face::rofl::rofl:  
@@ -48,6 +49,4 @@ I have no problem with that because learning is a pleasure for me!
 <details>
   <summary>psst... here's the secret</summary>
   <br>
-    ### 🎧 Spotify Playing
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/11132216642)
