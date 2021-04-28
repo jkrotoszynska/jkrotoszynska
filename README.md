@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=jkrotoszynska)
+***
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20I'm%20Justyna&fontSize=65&fontAlignY=35)  
 I am friendly person, who really like working with computers and people (sometimes) :zipper_mouth_face::rofl::rofl:  
 In my life, I focus on self-development. My goal is to expand my knowledge.  
@@ -7,7 +9,6 @@ I have no problem with that because learning is a pleasure for me!
 :woman_technologist: I connect my future with frontend or databases  
 :crossed_swords: The hardest language for me is Scala, and unfortunately I like challenges so I' want to beat it.
 
-![](https://visitor-badge.glitch.me/badge?page_id=jkrotoszynska)
 <hr>
 <p align="center">
   <i> Get in touch with me </i>
