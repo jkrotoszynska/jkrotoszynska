@@ -3,6 +3,6 @@ I am friendly person, who really like working with computers and people (sometim
 In my life, I focus on self-development. My goal is to expand my knowledge.  
 I have no problem with that because learning is a pleasure for me!
 
-:mortar_board: I' m currently a student of Computer Science and Econometrics
-I connect my future with frontend or databases
+:mortar_board: I' m currently a student of Computer Science and Econometrics  
+:woman_technologist:I connect my future with frontend or databases
 
