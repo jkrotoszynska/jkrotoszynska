@@ -8,6 +8,8 @@ I have no problem with that because learning is a pleasure for me!
 :mortar_board: I' m currently a student of Computer Science and Econometrics  
 :woman_technologist: I connect my future with frontend or databases  
 :crossed_swords: The hardest language for me is Scala, and unfortunately I like challenges so I' want to beat it.
+  
+at the moment I am working with
 
 <hr>
 <p align="center">
