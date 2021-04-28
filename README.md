@@ -46,3 +46,6 @@ I have no problem with that because learning is a pleasure for me!
 <details>
   <summary>psst... here's the secret</summary>
   <br>
+    ### 🎧 Spotify Playing
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="itgoyo Spotify Playing" width="350" />](https://open.spotify.com/user/11132216642)
