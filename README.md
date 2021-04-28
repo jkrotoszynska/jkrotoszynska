@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20I'm%20Justynar&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi!%20I'm%20Justyna&fontSize=70)
 
 Here are some ideas to get you started:
 
