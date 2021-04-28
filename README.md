@@ -10,7 +10,7 @@ I have no problem with that because learning is a pleasure for me!
 :crossed_swords: The hardest language for me is Scala, and unfortunately I like challenges so I' want to beat it.
 ***
 <p align="center">
-    <h3>At the moment I am working with</h3>
+    <h3 align="center">At the moment I am working with</h3>
     <!-- git -->
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <!-- linux -->
