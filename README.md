@@ -21,7 +21,11 @@ I have no problem with that because learning is a pleasure for me!
 <details>
   <summary>psst... here's the secret</summary>
   <br>
- 
+ <!-- <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
+</p> -->
+
 
 
 
