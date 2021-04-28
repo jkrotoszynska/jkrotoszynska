@@ -49,5 +49,5 @@ I have no problem with that because learning is a pleasure for me!
   <summary>psst... here's the secret</summary>
   <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jkrotoszynska1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jkrotoszynska&theme=dark)](https://git.io/streak-stats)
 
