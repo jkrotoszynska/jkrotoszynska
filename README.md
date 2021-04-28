@@ -52,3 +52,6 @@ I have no problem with that because learning is a pleasure for me!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jkrotoszynska&theme=default)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
