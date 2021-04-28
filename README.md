@@ -9,8 +9,8 @@ I have no problem with that because learning is a pleasure for me!
 :woman_technologist: I connect my future with frontend or databases  
 :crossed_swords: The hardest language for me is Scala, and unfortunately I like challenges so I' want to beat it.
 ***
-__At the moment I am working with__
 <p align="center">
+    At the moment I am working with
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   
 </p>
