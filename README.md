@@ -15,7 +15,10 @@ I have no problem with that because learning is a pleasure for me!
     <a href="mailto:justyna.krotoszynska@gmail.com"><img src ="https://raw.githubusercontent.com/jkrotoszynska/jkrotoszynska/main/mail-fill.svg"></a>
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=jkrotoszynska)
+<details>
+  <summary>psst... here's the secret</summary>
+  <br>
+  ![](https://visitor-badge.glitch.me/badge?page_id=jkrotoszynska)
 
 
 
