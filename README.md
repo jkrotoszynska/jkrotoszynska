@@ -51,7 +51,7 @@ I have no problem with that because learning is a pleasure for me!
 
 
 <details>
-  <summary>Some of my little programs</summary>
+  <summary>Some of my little programs:</summary>
   <br>
     ... 
 
