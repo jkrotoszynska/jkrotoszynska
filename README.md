@@ -53,5 +53,7 @@ I have no problem with that because learning is a pleasure for me!
 <details>
   <summary>Some of my little programs:</summary>
   <br>
+    <li>
+        <a href="https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/kolokwium/zadanie2">
     ... 
 
