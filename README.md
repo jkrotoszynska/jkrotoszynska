@@ -54,5 +54,5 @@ I have no problem with that because learning is a pleasure for me!
   <summary>Some of my little programs:</summary>
   <br>
     <li>
-        <a href="https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/kolokwium/zadanie2" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" alt="new" /> Aplikacja liczydła [JAVA] </b></a>
+        <a href="https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/kolokwium/zadanie2" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" /> Aplikacja liczydła </b></a>
 
