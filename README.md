@@ -58,6 +58,6 @@ I have no problem with that because learning is a pleasure for me!
     <li>
         <a href="https://github.com/jkrotoszynska/pythonGame" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Gra zręcznościowa </b></a></li>
      <li>
-        <a href="https://github.com/jkrotoszynska/milonerzyJava" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" /> Milionerzy </b></li>
+        <a href="https://github.com/jkrotoszynska/milionerzyJava" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" /> Milionerzy </b></li>
     <li> loading...
 
