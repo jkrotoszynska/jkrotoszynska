@@ -55,6 +55,8 @@ I have no problem with that because learning is a pleasure for me!
   <br>
     <li>
         <a href="https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/kolokwium/zadanie2" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" /> Aplikacja liczydła </b></a></li>
+    <li>
+        <a href="https://github.com/jkrotoszynska/pythonGame" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20"/></a>
      <li>
         <b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" /> Milionerzy </b></li>
     <li> loading...
