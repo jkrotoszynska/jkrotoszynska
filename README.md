@@ -8,6 +8,19 @@ I have no problem with that because learning is a pleasure for me!
 :mortar_board: I' m currently a student of Computer Science and Econometrics  
 :woman_technologist: I connect my future with frontend or databases  
 :crossed_swords: The hardest language for me is Scala, and unfortunately I like challenges so I' want to beat it.
+
+<details>
+  <summary>Some of my little programs:</summary>
+  <br>
+    <li>
+        <a href="https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/kolokwium/zadanie2" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" /> Aplikacja liczydła </b></a></li>
+    <li>
+        <a href="https://github.com/jkrotoszynska/pythonGame" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Gra zręcznościowa </b></a></li>
+     <li>
+        <a href="https://github.com/jkrotoszynska/milionerzyJava" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" /> Milionerzy </b></li>
+    <li> loading...
+</details>
+
 ***
 <p align="center">
     <h3 align="center">At the moment I am working with</h3>
@@ -48,16 +61,3 @@ I have no problem with that because learning is a pleasure for me!
       <a href="https://www.instagram.com/xadmire/"><img src ="https://raw.githubusercontent.com/jkrotoszynska/jkrotoszynska/main/instagram-line.svg"></a>
       <a href="mailto:justyna.krotoszynska@gmail.com"><img src ="https://raw.githubusercontent.com/jkrotoszynska/jkrotoszynska/main/mail-fill.svg"></a>
 </p>
-
-
-<details>
-  <summary>Some of my little programs:</summary>
-  <br>
-    <li>
-        <a href="https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/kolokwium/zadanie2" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" /> Aplikacja liczydła </b></a></li>
-    <li>
-        <a href="https://github.com/jkrotoszynska/pythonGame" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Gra zręcznościowa </b></a></li>
-     <li>
-        <a href="https://github.com/jkrotoszynska/milionerzyJava" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" /> Milionerzy </b></li>
-    <li> loading...
-
