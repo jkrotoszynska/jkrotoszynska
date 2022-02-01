@@ -11,7 +11,7 @@ I have no problem with that because learning is a pleasure for me!
 
 ***
 <p align="center">
-    <h3 align="center">At the moment I am working with</h3>
+    <h3 align="center">I worked with</h3>
     <p align="center">
     <!-- git -->
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
