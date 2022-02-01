@@ -41,17 +41,6 @@ I have no problem with that because learning is a pleasure for me!
   <!-- sass -->
   <a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> </a>  
       </p>
-  <details>
-  <summary>Some of my little programs:</summary>
-  <br>
-    <li>
-        <a href="https://github.com/jkrotoszynska/programowanieObiektowe/tree/master/kolokwium/zadanie2" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" /> Aplikacja liczydła </b></a></li>
-    <li>
-        <a href="https://github.com/jkrotoszynska/pythonGame" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"/> Gra zręcznościowa </b></a></li>
-     <li>
-        <a href="https://github.com/jkrotoszynska/MilionerzyJava" target="_blank"><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="20" /> Milionerzy </b></a></li>
-    <li> loading...
-</details>
 </p>
 
 <hr>
