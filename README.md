@@ -19,7 +19,7 @@ I have no problem with that because learning is a pleasure for me!
     <!-- linux -->
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <!-- sql -->
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://1.bp.blogspot.com/-bBFQnSmDq6g/Xp5KJEFCJsI/AAAAAAAAAMc/gBf2EFeus8cjj0viVOGf3CBBCNncZjBjgCLcBGAsYHQ/s1600/SQL-Server-Management-Studio-Logo.png" alt="mssql" width="40" height="40" /></a>
     <!-- python -->
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
     <!-- c# -->
