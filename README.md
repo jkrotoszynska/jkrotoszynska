@@ -38,11 +38,11 @@ I have no problem with that because learning is a pleasure for me!
     <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
     <!-- figma -->
       <!-- inny link -->
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <!-- sass -->
-  <a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
        <!-- IONIC -->
-    <a href="https://ionicframework.com/" target="_blank"><img src="https://ionicacademy.com/wp-content/uploads/2020/02/ionic-Logo.svg" alt="php" width="40" height="40" /></a>
+    <a href="https://ionicframework.com/" target="_blank"><img src="https://ionicacademy.com/wp-content/uploads/2020/02/ionic-Logo.svg" alt="ionic" width="40" height="40" /></a>
+      <!-- VUE -->
+    <a href="https://vuejs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" width="40" height="40" /></a>
       </p>
 </p>
 
