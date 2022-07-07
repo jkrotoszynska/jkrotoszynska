@@ -11,10 +11,6 @@ I have no problem with that because learning is a pleasure for me!
 <p align="center">
     <h3 align="center">I like working with</h3>
     <p align="center">
-    <!-- git -->
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <!-- linux -->
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <!-- sql -->
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://1.bp.blogspot.com/-bBFQnSmDq6g/Xp5KJEFCJsI/AAAAAAAAAMc/gBf2EFeus8cjj0viVOGf3CBBCNncZjBjgCLcBGAsYHQ/s1600/SQL-Server-Management-Studio-Logo.png" alt="mssql" width="40" height="40" /></a>
     <!-- python -->
