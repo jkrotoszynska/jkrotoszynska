@@ -40,3 +40,7 @@ I have no problem with that because learning is a pleasure for me!
       <a href="https://www.instagram.com/xadmire/"><img src ="https://raw.githubusercontent.com/jkrotoszynska/jkrotoszynska/main/instagram-line.svg"></a>
       <a href="mailto:justyna.krotoszynska@gmail.com"><img src ="https://raw.githubusercontent.com/jkrotoszynska/jkrotoszynska/main/mail-fill.svg"></a>
 </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=jkrotoszynska&show_icons=true&include_all_commits=true)](https://github.com/jkrotoszynska/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkrotoszynska&layout=compact)](https://github.com/jkrotoszynska/github-readme-stats)
+
