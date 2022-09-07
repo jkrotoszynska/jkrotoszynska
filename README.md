@@ -5,7 +5,7 @@ I have no problem with that because learning is a pleasure for me!
 
 :mortar_board: I' m currently a student of Computer Science and Econometrics   
 :woman_technologist: Intern at Broadridge  
-:crossed_swords: At this moment I'm lerning Python and English language
+:crossed_swords: At this moment I'm learning Python and English language
 
 ***
 <p align="center">
