@@ -5,10 +5,6 @@ I am friendly person, who really like working with computers and people (sometim
 In my life, I focus on self-development. My goal is to expand my knowledge.  
 I have no problem with that because learning is a pleasure for me!
 
-:mortar_board: I' m currently a student of Computer Science and Econometrics   
-:woman_technologist: Intern at Broadridge (SQL and PL/SQL)  
-:crossed_swords: At this moment I'm learning Python and English language
-
 
 ***
 <p align="center">
